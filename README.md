@@ -6,7 +6,7 @@ A clean and modern Invoice Generator Web Application built with React.js that al
 
 🔗 Live Demo
 
-👉 Live Project: (Add your Netlify / Vercel link here)
+👉 Live Project: https://invoicejenerator.netlify.app/
 ---
 
 🚀 Features
